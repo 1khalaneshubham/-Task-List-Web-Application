@@ -47,10 +47,8 @@ This project demonstrates CRUD operations, database integration using JPA, and b
 
 ### 📝 Task List Page
 
-![Task List Page](images/task-list.png)
-
 ### ➕ Add Task Page
-![Add Task Page](images/add-task.png)
+![Add Task Page](https://github.com/1khalaneshubham/-Task-List-Web-Application/blob/main/Screenshot%20(47).png)
 
 ### ✏️ Edit Task Page
-![Edit Task Page](images/edit-task.png)
+![Edit Task Page](https://github.com/1khalaneshubham/-Task-List-Web-Application/blob/main/Screenshot%20(46).png)
